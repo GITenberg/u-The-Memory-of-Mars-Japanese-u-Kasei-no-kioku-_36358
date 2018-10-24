@@ -1,0 +1,35 @@
+_version: 0.0.1
+alternative_title:
+- Kasei no kioku
+- The Memory of Mars. Japanese
+contributor:
+  translator:
+    agent_name: Hayashi, Kiyotoshi
+    alias: 林清俊
+    gutenberg_agent_id: '36139'
+    url: http://www.gutenberg.org/2009/agents/36139
+creator:
+  author:
+    agent_name: Jones, Raymond F.
+    alias: Jones, Raymond F. (Raymond Fisher)
+    birthdate: 1915
+    deathdate: 1994
+    gutenberg_agent_id: '25386'
+    url: http://www.gutenberg.org/2009/agents/25386
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_F._Jones
+description: 'Translation of: The Memory of Mars'
+gutenberg_issued: '2011-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36358'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- GITenberg
+title: 火星の記憶
+url: http://www.gutenberg.org/ebooks/36358
